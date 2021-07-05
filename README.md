@@ -6,6 +6,8 @@ Steve is advising his parents on stock options and wants to make sure they are g
 
 ## Results
 Comparing the results from 2017 and 2018 there are two stocks, ENPH and RUN, that remain positive on return going in to 2018.
+
+
 ![2017 Results](https://user-images.githubusercontent.com/83738699/124402381-9633af80-dcf5-11eb-8e69-850691073459.PNG)![2018 Results](https://user-images.githubusercontent.com/83738699/124402388-9fbd1780-dcf5-11eb-9a68-cc8c8ca6b217.PNG)
 When you look at 2017 Run only had 5.5% on return with 267,681,300 in daily trade volume, while ENPH had a very high return on 129.5% and only had 221,772,100 in daily trade volume. Based on 2018 data, ENPH would be the best option to invest in and get the most in return.
 ### Execution times for VBA script
