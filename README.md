@@ -2,7 +2,7 @@
 > # An Analysis of 2017 and 2018 Stocks
 > 
 ## Overview of Project
-Steve is advising his parents on stock options and wants to make sure they are going to get a good return on their investments. An analysis was performed on stock data from 2017 through 2018 to help Steve advise his parents by looking at the daily volume and the yearly return from the twelve different stocks options. In order to assist Steve, VBA language needed to be learned and applied.
+Steve is advising his parents on stock options and wants to make sure they are going to get a good return on their investments. An analysis was performed on stock data from 2017 through 2018 to help Steve advise his parents by looking at the daily volume and the yearly return from the twelve different stocks options. In order to assist Steve, VBA language needed to be learned and applied. I then refactored the code in order to speed up the run time and clean up the code.
 
 ## Results
 Comparing the results from 2017 and 2018 there are two stocks, ENPH and RUN, that remain positive on return going in to 2018.
