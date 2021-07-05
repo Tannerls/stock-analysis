@@ -14,12 +14,12 @@ When you look at 2017 Run only had 5.5% on return with 267,681,300 in daily trad
 #### Execution times for VBA script
 The original script was refactored to make it run faster when pulling different years. The original script ran 2017 code in .836 seconds, while the refactored code ran in .211 seconds.
 
-![2017 Module code](https://user-images.githubusercontent.com/83738699/124402859-879ac780-dcf8-11eb-8477-9afd185c2da1.PNG)![2017 refactored](https://user-images.githubusercontent.com/83738699/124402883-9ed9b500-dcf8-11eb-8cdf-c1cc57abac7e.PNG)
+![2017 Module code](https://user-images.githubusercontent.com/83738699/124402859-879ac780-dcf8-11eb-8477-9afd185c2da1.PNG)  ![2017 refactored](https://user-images.githubusercontent.com/83738699/124402883-9ed9b500-dcf8-11eb-8cdf-c1cc57abac7e.PNG)
 
 The same was true for 2018 results going from a run time of .843 to .211.
 
 
-![2018 Module code](https://user-images.githubusercontent.com/83738699/124402909-c6c91880-dcf8-11eb-8a34-cce6bb6baba4.PNG)![2018 refactored](https://user-images.githubusercontent.com/83738699/124402915-cd579000-dcf8-11eb-9692-c8640372f2b4.PNG)
+![2018 Module code](https://user-images.githubusercontent.com/83738699/124402909-c6c91880-dcf8-11eb-8a34-cce6bb6baba4.PNG)  ![2018 refactored](https://user-images.githubusercontent.com/83738699/124402915-cd579000-dcf8-11eb-9692-c8640372f2b4.PNG)
 
 By speeding up the run time for the script more data could be analyzed faster on future projects with more data.  
 ## Summary
